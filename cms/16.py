@@ -1,6 +1,0 @@
-file=open("./16.cpp","r") 
-file=file.read()
-file.strip()
-print(file.find("	"))
-file.replace("	","-")
-print(file)
